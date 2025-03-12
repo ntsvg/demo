@@ -1,4 +1,4 @@
 # demo
-This Is My First GitRrepository.
+This Is My First Git Repository.
 <br>
 Author - ntsvg
